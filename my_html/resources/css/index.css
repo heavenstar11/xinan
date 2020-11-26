@@ -1,0 +1,25 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 20px 20px;
+}
+
+.navbar a{
+    text-decoration: none;
+}
+
+
+.banner{
+    background-color: azure;
+    color: black;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0px;
+}
